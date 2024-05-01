@@ -1,0 +1,7 @@
+com/demo/tenant/dto/UserCred.class
+com/demo/tenant/service/AdminServiceImpl.class
+com/demo/tenant/controller/AdminController.class
+com/demo/tenant/modal/Tenants.class
+com/demo/tenant/service/AdminServiceI.class
+com/demo/tenant/dao/TenantsRepo.class
+com/demo/tenant/TenantApplication.class
